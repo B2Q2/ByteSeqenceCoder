@@ -1,0 +1,18 @@
+@bmp
+bfmagic         : 2 = 42 4d 
+bffailSize      : 4 = #
+bfreverse       : 4 = 00 00 00 00 
+bfOffBits       : 4 = 36 00 00 00
+biDIBheader     : 4 = 28 00 00 00
+biWidth         : 4 = #
+biHeight        : 4 = #
+biPlanes        : 2 = 01 00
+biBitCount      : 2 = 18 00
+biCompression   : 4 = 00 00 00 00
+biSizeImage     : 4 = #
+biXPelsPerMeter : 4 = 00 00 00 00
+biyPelsPerMeter : 4 = 00 00 00 00
+biClrUsed       : 4 = 00 00 00 00
+biClrImportant  : 4 = 00 00 00 00
+arrayColor      : * = #
+!bmp24

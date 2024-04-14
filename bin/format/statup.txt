@@ -1,0 +1,6 @@
+@setup
+magic:2=ffff
+size:4=a0a0 a0a0
+dfg:2=#
+gov:*=#
+! end of program
